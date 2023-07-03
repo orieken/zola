@@ -1,0 +1,2 @@
+url = "https://your-artifactory-instance.com/artifactory/api/npm/your-npm-repo/"
+token = "your-artifactory-api-token"
