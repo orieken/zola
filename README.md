@@ -1,4 +1,5 @@
 # Zola
+[![Rust](https://github.com/orieken/zola/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/orieken/zola/actions/workflows/rust.yml)
 
 Zola is a CLI tool that fetches and displays version information of npm packages from either the public npm registry or a private Artifactory repository.
 
